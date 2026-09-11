@@ -1,0 +1,277 @@
+{
+  "date": "2026-09-09T06:05:08.258Z",
+  "browser": "Edg/152.0.4191.66",
+  "checks": [
+    "Local page, font and supplied profile photo load",
+    "Pause preference survives a reload and resumes with the control",
+    "Modal menu contains keyboard focus and Escape returns it to the trigger",
+    "Menu section link updates URL, closes dialog and moves focus",
+    "Both project disclosures work with mouse, Enter and Space",
+    "System reduced-motion preference disables animation and keeps native disclosures usable",
+    "Seven sections fit at 1440, 768, 390 and 320 CSS pixels; mobile menu navigates",
+    "No-JavaScript page retains visible content and native disclosures",
+    "No page JavaScript or resource errors"
+  ],
+  "layouts": [
+    {
+      "width": 1440,
+      "innerWidth": 1440,
+      "section": "inicio",
+      "documentWidth": 1425,
+      "outside": []
+    },
+    {
+      "width": 1440,
+      "innerWidth": 1440,
+      "section": "sobre-mi",
+      "documentWidth": 1425,
+      "outside": []
+    },
+    {
+      "width": 1440,
+      "innerWidth": 1440,
+      "section": "experiencia",
+      "documentWidth": 1425,
+      "outside": []
+    },
+    {
+      "width": 1440,
+      "innerWidth": 1440,
+      "section": "proyectos",
+      "documentWidth": 1425,
+      "outside": []
+    },
+    {
+      "width": 1440,
+      "innerWidth": 1440,
+      "section": "habilidades",
+      "documentWidth": 1425,
+      "outside": []
+    },
+    {
+      "width": 1440,
+      "innerWidth": 1440,
+      "section": "formacion",
+      "documentWidth": 1425,
+      "outside": []
+    },
+    {
+      "width": 1440,
+      "innerWidth": 1440,
+      "section": "contacto",
+      "documentWidth": 1425,
+      "outside": []
+    },
+    {
+      "width": 768,
+      "innerWidth": 768,
+      "section": "inicio",
+      "documentWidth": 753,
+      "outside": []
+    },
+    {
+      "width": 768,
+      "innerWidth": 768,
+      "section": "sobre-mi",
+      "documentWidth": 753,
+      "outside": []
+    },
+    {
+      "width": 768,
+      "innerWidth": 768,
+      "section": "experiencia",
+      "documentWidth": 753,
+      "outside": []
+    },
+    {
+      "width": 768,
+      "innerWidth": 768,
+      "section": "proyectos",
+      "documentWidth": 753,
+      "outside": []
+    },
+    {
+      "width": 768,
+      "innerWidth": 768,
+      "section": "habilidades",
+      "documentWidth": 753,
+      "outside": []
+    },
+    {
+      "width": 768,
+      "innerWidth": 768,
+      "section": "formacion",
+      "documentWidth": 753,
+      "outside": []
+    },
+    {
+      "width": 768,
+      "innerWidth": 768,
+      "section": "contacto",
+      "documentWidth": 753,
+      "outside": []
+    },
+    {
+      "width": 390,
+      "innerWidth": 390,
+      "section": "inicio",
+      "documentWidth": 390,
+      "outside": []
+    },
+    {
+      "width": 390,
+      "innerWidth": 390,
+      "section": "sobre-mi",
+      "documentWidth": 390,
+      "outside": []
+    },
+    {
+      "width": 390,
+      "innerWidth": 390,
+      "section": "experiencia",
+      "documentWidth": 390,
+      "outside": []
+    },
+    {
+      "width": 390,
+      "innerWidth": 390,
+      "section": "proyectos",
+      "documentWidth": 390,
+      "outside": []
+    },
+    {
+      "width": 390,
+      "innerWidth": 390,
+      "section": "habilidades",
+      "documentWidth": 390,
+      "outside": []
+    },
+    {
+      "width": 390,
+      "innerWidth": 390,
+      "section": "formacion",
+      "documentWidth": 390,
+      "outside": []
+    },
+    {
+      "width": 390,
+      "innerWidth": 390,
+      "section": "contacto",
+      "documentWidth": 390,
+      "outside": []
+    },
+    {
+      "width": 320,
+      "innerWidth": 320,
+      "section": "inicio",
+      "documentWidth": 320,
+      "outside": []
+    },
+    {
+      "width": 320,
+      "innerWidth": 320,
+      "section": "sobre-mi",
+      "documentWidth": 320,
+      "outside": []
+    },
+    {
+      "width": 320,
+      "innerWidth": 320,
+      "section": "experiencia",
+      "documentWidth": 320,
+      "outside": []
+    },
+    {
+      "width": 320,
+      "innerWidth": 320,
+      "section": "proyectos",
+      "documentWidth": 320,
+      "outside": []
+    },
+    {
+      "width": 320,
+      "innerWidth": 320,
+      "section": "habilidades",
+      "documentWidth": 320,
+      "outside": []
+    },
+    {
+      "width": 320,
+      "innerWidth": 320,
+      "section": "formacion",
+      "documentWidth": 320,
+      "outside": []
+    },
+    {
+      "width": 320,
+      "innerWidth": 320,
+      "section": "contacto",
+      "documentWidth": 320,
+      "outside": []
+    }
+  ],
+  "errors": [],
+  "menuFocus": [
+    {
+      "inMenu": true,
+      "pageFocused": true,
+      "tag": "A",
+      "text": "00Inicio"
+    },
+    {
+      "inMenu": true,
+      "pageFocused": true,
+      "tag": "A",
+      "text": "01Perfil"
+    },
+    {
+      "inMenu": true,
+      "pageFocused": true,
+      "tag": "A",
+      "text": "02Experiencia"
+    },
+    {
+      "inMenu": true,
+      "pageFocused": true,
+      "tag": "A",
+      "text": "03Proyectos"
+    },
+    {
+      "inMenu": true,
+      "pageFocused": true,
+      "tag": "A",
+      "text": "04Habilidades"
+    },
+    {
+      "inMenu": true,
+      "pageFocused": true,
+      "tag": "A",
+      "text": "05Formación"
+    },
+    {
+      "inMenu": true,
+      "pageFocused": true,
+      "tag": "A",
+      "text": "06Contacto"
+    },
+    {
+      "inMenu": true,
+      "pageFocused": true,
+      "tag": "A",
+      "text": "Descargar currículum"
+    },
+    {
+      "inMenu": false,
+      "pageFocused": true,
+      "tag": "BODY",
+      "text": "Saltar al contenido\n  \n    \n    \n    \n    \n  \n  \n    er.EDGA"
+    },
+    {
+      "inMenu": true,
+      "pageFocused": true,
+      "tag": "BUTTON",
+      "text": "Cerrar×"
+    }
+  ],
+  "overflow": []
+}
